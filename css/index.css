@@ -10,6 +10,18 @@ body {
   width: 100%;
 }
 
+a:link {
+  color: #000 !important;
+}
+
+a:visited {
+  color: #847afd !important;
+}
+
+a:hover {
+  color: #dca9fc !important;
+}
+
 .mt4 {
   margin-top: 2rem;
 }
