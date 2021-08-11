@@ -78,4 +78,8 @@ a:hover {
 .project img {
   opacity: 50%;
 }
+
+.project-special img {
+  opacity: 20%;
+}
 /*# sourceMappingURL=index.css.map */
